@@ -5,4 +5,4 @@ The webpage includes features like:
 2. Tasks with higher priority have a different colour and are positioned higher.
 3. Tasks are sorted based on priority.
 4. Alerts the user when the deadline is exceeded.
-5. Provides a progress bar for you to update progress in real-time.
+5. Provides a progress bar for you to update progress of your tasks in real-time.
